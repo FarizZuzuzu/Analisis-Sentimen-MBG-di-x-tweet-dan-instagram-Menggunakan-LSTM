@@ -1,0 +1,2 @@
+# Analisis-Sentimen-MBG-di-x-tweet-dan-instagram-Menggunakan-LSTM
+Dalam Penelitian ini, sudah terferifikasi karena sudah melewati tahapan skripsi dan jurnal. Penelitian ini menggunakan dataset dari media sosial x dan ig dengan menggunakan teknik crawling pihak ketiga yaitu Apify (hanya mengambil 2 API dari 2 akun apify yang berbeda, selebihnya di google collabs semua) . algoritma yang di pakai SVM dan Naive Bayes
